@@ -38,7 +38,7 @@
     "can-stache-key": "^0.1.0",
     "can-symbol": "^1.0.0",
     "can-types": "^1.1.0",
-    "can-util": "^3.9.0"
+    "can-util": "3.10.18"
   },
   "devDependencies": {
     "detect-cyclic-packages": "^1.1.0",
