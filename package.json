@@ -38,7 +38,7 @@
     "can-simple-observable": "^2.0.0",
     "can-stache-key": "^1.0.0",
     "can-symbol": "^1.0.0",
-    "can-util": "^3.9.0"
+    "can-util": "^3.11.2"
   },
   "devDependencies": {
     "can-queues": "^1.0.0",
